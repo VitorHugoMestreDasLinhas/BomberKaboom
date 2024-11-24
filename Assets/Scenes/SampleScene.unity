@@ -2797,8 +2797,7 @@ Camera:
   orthographic: 1
 <<<<<<< HEAD
   orthographic size: 8.499999
-=======
-  orthographic size: 6.67
+
 >>>>>>> 9ddc9e18720ab7255267c3a9ef8f4bb3310dc781
   m_Depth: -1
   m_CullingMask:
