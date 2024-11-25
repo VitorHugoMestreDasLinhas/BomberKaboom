@@ -2798,8 +2798,12 @@ Camera:
  HEAD
   orthographic size: 8.499999
 
+HEAD
   orthographic size: 6.67
 9ddc9e18720ab7255267c3a9ef8f4bb3310dc781
+
+ 9ddc9e18720ab7255267c3a9ef8f4bb3310dc781
+ 8a379366f5451c89cafd9a142e3fefbda6024be8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
